@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
+<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/3de21f55-aa47-4041-9b04-e255e9ba0505" />
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
@@ -26,7 +26,7 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
 
-![Mon parcours : terrain, industrie, diplôme des Mines de Douai en 2011, fabrication numérique en 2018, informatique de 2020 à 2023 et formation data en 2026](assets/parcours-atypique.png)
+<img width="1440" height="650" alt="parcours-atypique" src="https://github.com/user-attachments/assets/68291565-5964-49ec-9202-cc4f27f559a3" />
 
 > **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
 > Je souhaite mettre cette double culture au service d'une **direction technique**, en faisant dialoguer équipes métiers et équipes informatiques.
@@ -45,13 +45,13 @@ J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendr
 
 </details>
 
-![Trois repères : plus de 30 ans de parcours industrie et informatique ; équipes jusqu’à 15 personnes ; projets de 500 k€ et plus](assets/chiffres-cles.png)
+<img width="1440" height="300" alt="chiffres-cles" src="https://github.com/user-attachments/assets/cbf71999-ac3b-47af-bb35-33644bd3abdc" />
 
 <a id="industrie"></a>
 
 ## 🏭 Industrie
 
-![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
+<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/b845b5be-8cf8-434f-8419-f47ea7f56598" />
 
 *Illustration des secteurs de mon parcours.*
 
@@ -61,7 +61,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-![Compétences industrielles](assets/competences-industrie.png)
+<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/4cfaf00c-cfaa-4733-afcc-6258da6f3e6e" />
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -77,7 +77,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ### Analyse, conception & maîtrise des risques
 
-![Analyse fonctionnelle : définir le besoin ; analyse de la valeur : comparer les solutions ; AMDEC : anticiper les défaillances](assets/methodes-ingenierie.png)
+<img width="1440" height="390" alt="methodes-ingenierie" src="https://github.com/user-attachments/assets/a8cb9a3a-28d6-41c8-b20f-0da7382ecf0a" />
 
 <details>
 <summary><strong>Lire le détail des trois méthodes</strong></summary>
@@ -146,7 +146,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
+<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/28ac0cb5-6d61-484c-b893-dfea875a12e4" />
 
 ### Structurer · Développer · Automatiser
 
@@ -157,7 +157,7 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
-![Les quatre domaines informatiques](assets/competences-it.png)
+<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/fe8e4420-a5aa-4c45-8378-c1e6e292ba24" />
 
 <details>
 <summary>Lire les compétences informatiques en texte</summary>
