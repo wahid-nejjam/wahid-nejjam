@@ -93,7 +93,6 @@ Mes domaines d'intérêt : **données industrielles, automatisation, suivi de pe
 | **2020** | Chef de projet MOA / Product Owner — Philiance |
 | **2018** | Fabrication numérique et objets connectés — Institut Mines-Télécom |
 | **2011** | Ingénieur généraliste, option production — Mines de Douai |
-| **1994** | BTS Conception de produits industriels |
 
 **Langues** : français et arabe bilingues · anglais opérationnel, avec formation intensive à Londres.
 
