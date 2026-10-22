@@ -1,9 +1,10 @@
 <div align="center">
 
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/352d080a-4201-48a1-8a9a-e060e9b85528" />
+![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
+[![Parcours](https://img.shields.io/badge/PARCOURS-0F2942?style=for-the-badge)](#parcours)
 [![Industrie](https://img.shields.io/badge/INDUSTRIE-0F2942?style=for-the-badge)](#industrie)
 [![Informatique](https://img.shields.io/badge/INFORMATIQUE-007F86?style=for-the-badge)](#informatique)
 [![Data](https://img.shields.io/badge/DATA_%26_SCIENCES_DES_DONNÉES-007F86?style=for-the-badge)](#formation)
@@ -17,13 +18,15 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 ---
 
-### De la mécanique de terrain à l'ingénierie et aux données
+<a id="parcours"></a>
 
-**Fabriquer, concevoir, piloter, puis développer de nouvelles compétences numériques : mon parcours s'est construit par étapes.**
+## Mon parcours · Une double culture construite sur le terrain
 
-Formé au tournage et au fraisage, j'ai évolué vers les bureaux d'études et les projets industriels, avant d'obtenir le **diplôme d'ingénieur des Mines de Douai en 2011**. J'ai exercé des responsabilités en conception, production, maintenance et management, dans des secteurs aux contraintes très différentes.
+**Du tournage-fraisage au diplôme d'ingénieur des Mines de Douai, puis à l'informatique et aux données.**
 
-J'ai ensuite prolongé cette expérience par la **MOA, le développement web et le DevOps**. En 2026, ma formation en **Data Engineering et Sciences des Données** ouvre une nouvelle étape : utiliser les données pour mieux comprendre les opérations et éclairer les décisions.
+J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
+
+![Mon parcours : terrain, industrie, diplôme des Mines de Douai en 2011, fabrication numérique en 2018, informatique de 2020 à 2023 et formation data en 2026](assets/parcours-atypique.png)
 
 > **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
 > Je souhaite mettre cette double culture au service d'une **direction technique**, en faisant dialoguer équipes métiers et équipes informatiques.
@@ -42,19 +45,13 @@ J'ai ensuite prolongé cette expérience par la **MOA, le développement web et 
 
 </details>
 
-<table>
-<tr>
-<td align="center" width="33%"><strong>30+ ans</strong><br>de parcours industrie & IT</td>
-<td align="center" width="33%"><strong>Jusqu'à 15 personnes</strong><br>en management d'équipe</td>
-<td align="center" width="33%"><strong>500 k€ et plus</strong><br>de projets pilotés</td>
-</tr>
-</table>
+![Trois repères : plus de 30 ans de parcours industrie et informatique ; équipes jusqu’à 15 personnes ; projets de 500 k€ et plus](assets/chiffres-cles.png)
 
 <a id="industrie"></a>
 
 ## 🏭 Industrie
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/2c5bc96d-c104-406d-a8f2-2a60e6a928bc" />
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -64,7 +61,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/950a0094-3a35-4772-8a8e-d4c7167b35d1" />
+![Compétences industrielles](assets/competences-industrie.png)
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -77,6 +74,21 @@ De la conception mécanique à la production, je pilote des projets en intégran
 | Impression 3D, Arduino et objets connectés | Suivi des coûts, de la qualité et des délais |
 
 </details>
+
+### Analyse, conception & maîtrise des risques
+
+![Analyse fonctionnelle : définir le besoin ; analyse de la valeur : comparer les solutions ; AMDEC : anticiper les défaillances](assets/methodes-ingenierie.png)
+
+<details>
+<summary><strong>Lire le détail des trois méthodes</strong></summary>
+
+- **Analyse fonctionnelle** · Identifier les besoins, définir les fonctions de service et les contraintes, puis formaliser les critères dans un cahier des charges fonctionnel.
+- **Analyse de la valeur** · Comparer les solutions selon les fonctions attendues et les coûts pour rechercher le meilleur équilibre entre utilité, qualité et coût.
+- **AMDEC — Analyse des modes de défaillance, de leurs effets et de leur criticité** · Identifier les défaillances potentielles d'un produit ou d'un processus, évaluer leur criticité et prioriser les actions de prévention.
+
+</details>
+
+**Dans mon parcours** · Analyse fonctionnelle et analyse de la valeur à la RATP ; analyse fonctionnelle et AMDEC d'un électrolyseur dans le cadre de mon parcours aux Mines de Douai / JCM.
 
 **Entreprises et structures de mon parcours**
 
@@ -127,7 +139,6 @@ De la conception mécanique à la production, je pilote des projets en intégran
 ![Excel](https://img.shields.io/badge/Excel-007F86?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-0F2942?style=for-the-badge&logo=arduino&logoColor=white)
 
-*Logos disponibles pour Dassault Systèmes, SAP et Arduino ; les autres outils sont identifiés par leur nom.*
 
 ---
 
@@ -135,7 +146,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/ddc1981a-d7f0-4ab6-9044-28633653a14b" />
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
 
 ### Structurer · Développer · Automatiser
 
@@ -146,7 +157,7 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
-<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/0ad2025f-ca90-4602-8f2b-39535b4efc88" />
+![Les quatre domaines informatiques](assets/competences-it.png)
 
 <details>
 <summary>Lire les compétences informatiques en texte</summary>
