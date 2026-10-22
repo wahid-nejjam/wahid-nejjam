@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
+<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/352d080a-4201-48a1-8a9a-e060e9b85528" />
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
@@ -54,7 +54,7 @@ J'ai ensuite prolongé cette expérience par la **MOA, le développement web et 
 
 ## 🏭 Industrie
 
-![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
+<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/2c5bc96d-c104-406d-a8f2-2a60e6a928bc" />
 
 *Illustration des secteurs de mon parcours.*
 
@@ -64,7 +64,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-![Compétences industrielles](assets/competences-industrie.png)
+<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/950a0094-3a35-4772-8a8e-d4c7167b35d1" />
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -135,7 +135,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
+<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/ddc1981a-d7f0-4ab6-9044-28633653a14b" />
 
 ### Structurer · Développer · Automatiser
 
@@ -146,7 +146,7 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
-![Les quatre domaines informatiques](assets/competences-it.png)
+<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/0ad2025f-ca90-4602-8f2b-39535b4efc88" />
 
 <details>
 <summary>Lire les compétences informatiques en texte</summary>
