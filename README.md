@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/68cee1b3-066b-489e-8a2e-f6ac71715b27" />
-
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" role="img", ingénierie industrielle, informatique et data"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1D32"/><stop offset="1" stop-color="#075C67"/></linearGradient></defs><rect width="1440" height="320" rx="20" fill="url(#bg)"/><g fill="none" stroke="#64D8D1" opacity=".18"><circle cx="1320" cy="60" r="180"/><circle cx="1320" cy="60" r="230"/><path d="M1020 270h230l70-70h120M1120 310v-70l60-60h260"/></g><rect x="70" y="62" width="54" height="5" rx="2" fill="#65E3DB"/><text x="70" y="132" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="3" fill="white">WAHID NEJJAM</text><text x="73" y="188" font-family="Arial,sans-serif" font-size="25" letter-spacing="3" fill="#92EBE4">INDUSTRIE · INFORMATIQUE · DATA</text><text x="73" y="251" font-family="Arial,sans-serif" font-size="22" fill="#DCECF2">Ingénieur des Mines de Douai · Management &amp; transformation numérique</text></svg>
+![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.svg)
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
@@ -19,16 +17,16 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 ---
 
-### Un parcours atypique, construit sur le terrain
+### De la mécanique de terrain à l'ingénierie et aux données
 
-J'ai commencé par apprendre à fabriquer : **tournage, fraisage et mécanique**. J'ai ensuite évolué vers la conception, les bureaux d'études et le pilotage de projets industriels, avant d'obtenir mon **diplôme d'ingénieur des Mines de Douai en 2011**.
+**Fabriquer, concevoir, piloter, puis développer de nouvelles compétences numériques : mon parcours s'est construit par étapes.**
 
-Au fil des projets, j'ai élargi mes responsabilités à la production, à la maintenance, au management et à la transmission des savoirs. Puis j'ai choisi d'explorer de nouveaux outils : **gestion de projets IT, développement web, DevOps et aujourd'hui ingénierie des données**.
+Formé au tournage et au fraisage, j'ai évolué vers les bureaux d'études et les projets industriels, avant d'obtenir le **diplôme d'ingénieur des Mines de Douai en 2011**. J'ai exercé des responsabilités en conception, production, maintenance et management, dans des secteurs aux contraintes très différentes.
 
-Ce parcours me donne plusieurs points de vue sur un même problème : celui de la personne qui fabrique, de l'ingénieur qui conçoit et du responsable qui coordonne. J'y ajoute progressivement les outils numériques pour mieux comprendre, automatiser et décider.
+J'ai ensuite prolongé cette expérience par la **MOA, le développement web et le DevOps**. En 2026, ma formation en **Data Engineering et Sciences des Données** ouvre une nouvelle étape : utiliser les données pour mieux comprendre les opérations et éclairer les décisions.
 
-> **Mon exigence : comprendre le besoin, soigner la réalisation et aller jusqu'à une solution utile.**  
-> Mon objectif est de mettre cette double culture industrie et informatique au service d'une **direction technique** et de projets de transformation.
+> **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
+> Je souhaite mettre cette double culture au service d'une **direction technique**, en faisant dialoguer équipes métiers et équipes informatiques.
 
 <details>
 <summary><strong>Les étapes de mon parcours : du terrain à la data</strong></summary>
@@ -56,7 +54,7 @@ Ce parcours me donne plusieurs points de vue sur un même problème : celui de l
 
 ## 🏭 Industrie
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/b5ed8ae4-cefd-401b-91e7-e23d214079ff" />
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -85,12 +83,12 @@ De la conception mécanique à la production, je pilote des projets en intégran
 ![Jourdan](https://img.shields.io/badge/Jourdan-0F2942?style=flat-square)
 ![Saint-Malo Naval](https://img.shields.io/badge/Saint-Malo%20Naval-0F2942?style=flat-square)
 
-**Quelques projets marquants**
+### Des réalisations qui illustrent mon parcours
 
-- **JCDecaux** · Développement de mobiliers urbains, dont Vélib', sanitaires accessibles et kiosques.
-- **RATP** · Élaboration de **5 cahiers des charges fonctionnels** pour la maintenance ferroviaire.
-- **Compin** · Intériorisme ferroviaire sur un programme de **202 véhicules**.
-- **Bolloré** · Développement mécanique de bornes de recharge pour véhicules électriques.
+- **Concevoir pour les usages — JCDecaux** · Développement de mobiliers urbains, dont Vélib', sanitaires accessibles et kiosques.
+- **Structurer un besoin complexe — RATP** · Élaboration de **5 cahiers des charges fonctionnels** pour la maintenance ferroviaire.
+- **Coordonner un programme industriel — Compin** · Responsabilité de projet en intériorisme ferroviaire sur un programme de **202 véhicules**.
+- **Accompagner de nouveaux usages — Bolloré** · Développement mécanique de bornes de recharge pour véhicules électriques.
 
 <details>
 <summary><strong>Voir mes expériences industrielles</strong></summary>
@@ -117,14 +115,16 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/490f59ef-2956-40bf-9827-1bea5f0fc0ff" />
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
 
 ### Structurer · Développer · Automatiser
 
 J'ai élargi mon parcours industriel à la gestion de projets IT, au développement web et au DevOps. Je poursuis cette évolution avec une **formation Expert Data Engineer et Sciences des Données en 2026**.
 
+### Une expérience professionnelle dans les services IT
+
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
-Management opérationnel, coordination des intervenants, indicateurs de performance, tableaux de bord et comités de pilotage.
+J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
 | Mes quatre domaines | Ce que je mobilise |
 | :--- | :--- |
@@ -168,6 +168,15 @@ Management opérationnel, coordination des intervenants, indicateurs de performa
 
 ### Formation & évolution
 
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Logo_ecole_des_mines_de_Douai.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_ecole_des_mines_de_Douai.png" alt="Logo historique de l’École des Mines de Douai" width="115"></a>
+  <br>
+  <strong>Ingénieur généraliste · Mines de Douai · 2011</strong>
+  <br>
+  Option production
+</p>
+
+
 **2026 · Expert Data Engineer et Sciences des Données — formation**  
 Je développe mes compétences en ingénierie des données et en sciences des données, avec un intérêt particulier pour les données industrielles, l'automatisation et l'aide à la décision.
 
@@ -198,3 +207,5 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 Français & arabe : bilingue · Anglais : opérationnel
 
 </div>
+
+<sub>Logo historique des Mines de Douai : [Treize1101 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logo_ecole_des_mines_de_Douai.png), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), image non modifiée.</sub>
