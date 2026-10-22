@@ -94,6 +94,9 @@ Mon socle : la conception mécanique, la production et le pilotage de projets, d
 <a id="informatique"></a>
 
 ## 💻 Informatique
+
+<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/142636aa-4415-4945-90c6-05c198f3dff6" />
+
 ### Structurer · Développer · Automatiser
 
 J'ai élargi mon parcours industriel à la gestion de projets IT, au développement web et au DevOps. Je poursuis cette évolution avec une **formation Expert Data Engineer et Sciences des Données en 2026**.
