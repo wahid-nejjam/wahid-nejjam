@@ -1,77 +1,31 @@
-<div align="center">
+# Bonjour, je suis Wahid NEJJAM 👋
 
-# WAHID NEJJAM
+**Ingénieur généraliste des Mines de Douai | Industrie · Gestion de projets IT · DevOps · Data**
 
-### INGÉNIERIE INDUSTRIELLE · INFORMATIQUE · DATA
+Mon parcours de plus de 30 ans associe l'ingénierie industrielle, le management d'équipes et le pilotage de projets techniques. Après des responsabilités en bureau d'études, en production et en maintenance, j'ai élargi mes compétences aux systèmes d'information, au développement web et au DevOps.
 
-**Ingénieur généraliste des Mines de Douai**  
-Du terrain industriel aux solutions numériques.
+En 2026, je poursuis ce parcours avec une formation **Expert Data Engineer et Sciences des Données**. Mon objectif : relier les besoins du terrain aux solutions numériques et à l'analyse des données pour améliorer la performance et éclairer les décisions.
 
-[![Industrie](https://img.shields.io/badge/INDUSTRIE-0F2942?style=for-the-badge)](#industrie)
-[![Informatique](https://img.shields.io/badge/INFORMATIQUE-007F86?style=for-the-badge)](#informatique)
-[![Data](https://img.shields.io/badge/DATA_%26_SCIENCES_DES_DONNÉES-B7791F?style=for-the-badge)](#formation)
+🎯 **Poste visé : directeur technique**, à l'interface des équipes, des opérations industrielles et de la transformation numérique.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Échanger-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/)
-[![Email](https://img.shields.io/badge/Email-Me_contacter-007F86?style=flat-square&logo=gmail&logoColor=white)](mailto:wahid.nejjam@gmail.com)
+📍 Saint-Malo, France · 🌍 Mobilité nationale et internationale
 
-Saint-Malo, France · Mobilité nationale et internationale
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [Me contacter par e-mail](mailto:wahid.nejjam@gmail.com)
 
 ---
 
-> **Mon objectif : une direction technique à l'interface de l'industrie et du numérique.**  
-> Je relie les besoins du terrain, le management des équipes et les solutions informatiques pour améliorer la performance et accompagner la transformation des organisations.
+## 🏭 1. Industrie — Concevoir, produire et piloter
 
-<table>
-<tr>
-<td align="center" width="33%"><strong>30+ ans</strong><br>de parcours industrie & IT</td>
-<td align="center" width="33%"><strong>Jusqu'à 15 personnes</strong><br>en management d'équipe</td>
-<td align="center" width="33%"><strong>500 k€ et plus</strong><br>de projets pilotés</td>
-</tr>
-</table>
+### Compétences clés
 
-<a id="industrie"></a>
+- **Direction de projets et management** : coordination d'équipes jusqu'à 15 personnes, pilotage de projets de 500 k€ et plus, suivi des coûts, de la qualité et des délais.
+- **Bureau d'études et R&D** : conception mécanique, machines spéciales, mobiliers urbains, équipements ferroviaires et solutions d'industrialisation.
+- **Production et amélioration continue** : analyse des performances, PIC/PDP, gestion des stocks, ordonnancement et Kanban.
+- **Qualité et maintenance** : AMDEC, analyse fonctionnelle, analyse de la valeur, maintenance corrective et préventive.
+- **Maîtrise d'ouvrage** : expression des besoins, cahiers des charges fonctionnels et coordination des parties prenantes.
+- **Fabrication numérique** : impression 3D, Arduino et objets connectés.
 
-## 🏭 Industrie
-
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/ad3a2fa3-1932-4534-9730-c666f0f8edc7" />
-
-
-*Illustration des secteurs de mon parcours.*
-
-### Concevoir · Industrialiser · Piloter
-
-Mon socle : la conception mécanique, la production et le pilotage de projets, dans des secteurs aussi variés que le ferroviaire, les mobiliers urbains, l'automobile et les machines spéciales.
-
-| Conception & R&D | Opérations & management |
-| :--- | :--- |
-| Bureau d'études et conception mécanique | Management d'équipes et coordination des partenaires |
-| Analyse fonctionnelle et cahiers des charges | Production, PIC/PDP, stocks et ordonnancement |
-| AMDEC et analyse de la valeur | Qualité, maintenance et amélioration continue |
-| Impression 3D, Arduino et objets connectés | Suivi des coûts, de la qualité et des délais |
-
-**Entreprises et structures de mon parcours**
-
-![JCDecaux](https://img.shields.io/badge/JCDecaux-0F2942?style=flat-square)
-![RATP](https://img.shields.io/badge/RATP-008C95?style=flat-square)
-![Compin](https://img.shields.io/badge/Compin-0F2942?style=flat-square)
-![Bolloré](https://img.shields.io/badge/Bollor%C3%A9-0F2942?style=flat-square)
-![Lafarge](https://img.shields.io/badge/Lafarge-007F86?style=flat-square)
-![Manurhin](https://img.shields.io/badge/Manurhin-0F2942?style=flat-square)
-![ITII Normandie](https://img.shields.io/badge/ITII%20Normandie-007F86?style=flat-square)
-![Jourdan](https://img.shields.io/badge/Jourdan-0F2942?style=flat-square)
-![Saint-Malo Naval](https://img.shields.io/badge/Saint-Malo%20Naval-0F2942?style=flat-square)
-
-**Quelques projets marquants**
-
-- **JCDecaux** · Développement de mobiliers urbains, dont Vélib', sanitaires accessibles et kiosques.
-- **RATP** · Élaboration de **5 cahiers des charges fonctionnels** pour la maintenance ferroviaire.
-- **Compin** · Intériorisme ferroviaire sur un programme de **202 véhicules**.
-- **Bolloré** · Développement mécanique de bornes de recharge pour véhicules électriques.
-
-<details>
-<summary><strong>↳ Découvrir l'ensemble de mes expériences industrielles</strong></summary>
+### Expériences et réalisations représentatives
 
 | Entreprise / structure | Responsabilités et contributions |
 | --- | --- |
@@ -84,57 +38,37 @@ Mon socle : la conception mécanique, la production et le pilotage de projets, d
 | **JCDecaux** | Conception et développement de mobiliers urbains, dont **Vélib'**, sanitaires accessibles, kiosques et outillages associés. |
 | **Jourdan / Saint-Malo Naval** | Responsabilités de bureau d'études et de projets : lignes de conditionnement et équipements navals. |
 
-</details>
+### Outils industriels
 
-**Mes outils**  
-`CATIA V5` `Creo / Pro/ENGINEER` `Windchill` `SAP` `AS/400` `BAAN` `MATLAB` `Witness` `MS Project` `Excel`
+**CAO / PLM** : CATIA V5 · Creo / Pro/ENGINEER · Windchill · PDMLink · Pro/INTRALINK  
+**ERP / production** : SAP · AS/400 · BAAN  
+**Simulation / pilotage** : MATLAB · Witness · MS Project · Excel
 
 ---
 
-<a id="informatique"></a>
+## 💻 2. Informatique — Piloter, développer et automatiser
 
-## 💻 Informatique
+### Expérience professionnelle IT
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/142636aa-4415-4945-90c6-05c198f3dff6" />
+**Sopra Steria, Rennes — Responsable service infogérance / Chef de projet IT · 2023**
 
-### Structurer · Développer · Automatiser
+- Management opérationnel du service et coordination des intervenants.
+- Analyse des données et mise en place d'indicateurs de performance et de tableaux de bord.
+- Préparation des comités de pilotage et reporting.
+- Suivi des plannings, des budgets et des actions d'amélioration.
 
-J'ai élargi mon parcours industriel à la gestion de projets IT, au développement web et au DevOps. Je poursuis cette évolution avec une **formation Expert Data Engineer et Sciences des Données en 2026**.
+### Compétences IT et outils mobilisés
 
-**Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
-Management opérationnel, coordination des intervenants, indicateurs de performance, tableaux de bord et comités de pilotage.
+| Domaine | Compétences et technologies |
+| --- | --- |
+| **Gestion de projets / MOA** | Recueil des besoins, cahiers des charges, Product Owner, backlog, user stories, sprints, recette et méthodes agiles. |
+| **DevOps / automatisation** | Linux, Bash, Python, Git / GitHub, Jenkins, Docker, Kubernetes et Ansible. |
+| **Cloud / observabilité** | AWS, Google Cloud, Elasticsearch, Logstash et Kibana. |
+| **Développement web** | HTML5, CSS3 / Sass, JavaScript, Bootstrap, PHP orienté objet, Symfony et WordPress. |
+| **Technologies abordées en formation web** | React, Angular, Node.js, MySQL et MongoDB. |
+| **Data — formation 2026** | Développement de mes compétences en ingénierie des données et en sciences des données. |
 
-| Domaine | Compétences & outils |
-| :--- | :--- |
-| **Pilotage & MOA** | Expression des besoins · Product Owner · Agile · Backlog · Recette |
-| **DevOps** | Linux · Bash · Python · Git / GitHub · Jenkins · Docker · Kubernetes · Ansible |
-| **Cloud & observabilité** | AWS · Google Cloud · Elasticsearch · Logstash · Kibana |
-| **Développement web** | HTML / CSS · JavaScript · PHP · Symfony · WordPress |
-| **Abordés en formation web** | React · Angular · Node.js · MySQL · MongoDB |
-
-<details>
-<summary><strong>↳ Mes outils et technologies en images</strong></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-181717?style=for-the-badge&logo=symfony&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-*Outils issus de mon parcours et de mes formations ; voir les domaines ci-dessus pour leur contexte.*
-
-</details>
-
-### 🛠️ Projets de formation
+### Projets de formation
 
 | Projet | Objectif et travail réalisé |
 | --- | --- |
@@ -143,18 +77,13 @@ Management opérationnel, coordination des intervenants, indicateurs de performa
 | **ATHOME — Application de services** | Projet d'application pour géolocaliser et réserver des prestations de soins et de beauté, dans le cadre de la formation MOA / Product Owner. |
 | **Station météo connectée** | Développement d'un objet connecté et interactif dans le cadre de la formation Fabrication numérique. |
 
-> **Ce que j'apporte : la compréhension du terrain.**  
-> Mon expérience industrielle me permet de traduire les contraintes opérationnelles en besoins numériques, de définir des indicateurs utiles et de dialoguer avec les équipes métiers comme avec les équipes techniques.
+### Mon lien entre industrie et informatique
 
-<a id="formation"></a>
+Mon expérience industrielle m'aide à comprendre les processus, les contraintes opérationnelles et les besoins des utilisateurs. Je m'appuie sur cette connaissance pour cadrer les projets numériques, définir des indicateurs utiles et concevoir des solutions adaptées au terrain.
 
-### 🎓 Mon évolution professionnelle
+Mes domaines d'intérêt : **données industrielles, automatisation, suivi de performance, qualité des données et aide à la décision**.
 
-**2026 · Expert Data Engineer et Sciences des Données — formation**  
-Je développe mes compétences en ingénierie des données et en sciences des données, avec un intérêt particulier pour les données industrielles, l'automatisation et l'aide à la décision.
-
-<details>
-<summary><strong>↳ Consulter mon parcours de formation</strong></summary>
+### Formation
 
 | Année | Formation |
 | --- | --- |
@@ -164,19 +93,10 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 | **2020** | Chef de projet MOA / Product Owner — Philiance |
 | **2018** | Fabrication numérique et objets connectés — Institut Mines-Télécom |
 | **2011** | Ingénieur généraliste, option production — Mines de Douai |
+| **1994** | BTS Conception de produits industriels |
 
-</details>
+**Langues** : français et arabe bilingues · anglais opérationnel, avec formation intensive à Londres.
 
----
+🤝 Ouvert aux échanges sur la direction technique, les projets industriels, les systèmes d'information et la valorisation des données.
 
-<div align="center">
-
-### Construisons des solutions utiles au terrain.
-
-**Direction technique · Projets industriels · Systèmes d'information · Données**
-
-[Échangeons sur LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [Écrivez-moi](mailto:wahid.nejjam@gmail.com)
-
-Français & arabe : bilingue · Anglais : opérationnel
-
-</div>
+[Échangeons sur LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [wahid.nejjam@gmail.com](mailto:wahid.nejjam@gmail.com)
