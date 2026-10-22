@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/3de21f55-aa47-4041-9b04-e255e9ba0505" />
+![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
 
-**Du travail de la matière à la maîtrise des systèmes et des données.**
+**Gestion de projets IT · MOA / Product Owner · DevOps · Data en formation**
 
-[![Parcours](https://img.shields.io/badge/PARCOURS-0F2942?style=for-the-badge)](#parcours)
-[![Industrie](https://img.shields.io/badge/INDUSTRIE-0F2942?style=for-the-badge)](#industrie)
 [![Informatique](https://img.shields.io/badge/INFORMATIQUE-007F86?style=for-the-badge)](#informatique)
-[![Data](https://img.shields.io/badge/DATA_%26_SCIENCES_DES_DONNÉES-007F86?style=for-the-badge)](#formation)
+[![Méthodes](https://img.shields.io/badge/MÉTHODES_TRANSVERSALES-0F2942?style=for-the-badge)](#methodes)
+[![Industrie](https://img.shields.io/badge/INDUSTRIE-0F2942?style=for-the-badge)](#industrie)
+[![Parcours](https://img.shields.io/badge/PARCOURS-0F2942?style=for-the-badge)](#parcours)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Échanger-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/)
 [![Email](https://img.shields.io/badge/Email-Me_contacter-007F86?style=flat-square&logo=gmail&logoColor=white)](mailto:wahid.nejjam@gmail.com)
@@ -18,40 +18,115 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 ---
 
-<a id="parcours"></a>
+## Mon objectif · Contribuer à des projets IT utiles aux métiers
 
-## Mon parcours · Une double culture construite sur le terrain
+Ingénieur des Mines de Douai, j'associe une expérience industrielle et managériale à un parcours en **gestion de projets IT, MOA, développement web et DevOps**. Je souhaite poursuivre mon évolution dans l'IT, au contact des équipes métiers et techniques.
 
-**Du tournage-fraisage au diplôme d'ingénieur des Mines de Douai, puis à l'informatique et aux données.**
+**Mon atout : comprendre les contraintes du terrain pour cadrer les besoins, coordonner les intervenants et suivre la qualité des solutions.** En 2026, je complète ce socle par une formation **Expert Data Engineer et Sciences des Données**.
 
-J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
+<a id="informatique"></a>
 
-<img width="1440" height="650" alt="parcours-atypique" src="https://github.com/user-attachments/assets/68291565-5964-49ec-9202-cc4f27f559a3" />
 
-> **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
-> Je souhaite mettre cette double culture au service d'une **direction technique**, en faisant dialoguer équipes métiers et équipes informatiques.
+
+## 💻 1. Informatique · Mon orientation professionnelle
+
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
+
+### Structurer · Développer · Automatiser
+
+J'ai élargi mon parcours industriel à la gestion de projets IT, au développement web et au DevOps. Je poursuis cette évolution avec une **formation Expert Data Engineer et Sciences des Données en 2026**.
+
+### Une expérience professionnelle dans les services IT
+
+**Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
+J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
+
+![Les quatre domaines informatiques](assets/competences-it.png)
 
 <details>
-<summary><strong>Les étapes de mon parcours : du terrain à la data</strong></summary>
+<summary>Lire les compétences informatiques en texte</summary>
 
-| Étape | Ce que j'ai construit |
+| Mes quatre domaines | Ce que je mobilise |
 | :--- | :--- |
-| **Les bases du métier** | Formation en tournage et fraisage ; compréhension de la fabrication et des contraintes de la matière. |
-| **L'industrie depuis 1992** | Conception mécanique, bureau d'études, machines spéciales et projets dans plusieurs secteurs industriels. |
-| **2011 · Mines de Douai** | Diplôme d'ingénieur généraliste, option production, prolongeant mon expérience du terrain. |
-| **2018 · Fabrication numérique** | Objets connectés, impression 3D et transmission au sein d'un FabLab. |
-| **2020–2023 · Informatique** | Formations MOA / Product Owner, développement web et DevOps ; expérience de pilotage IT chez Sopra Steria. |
-| **2026 · Data** | Formation Expert Data Engineer et Sciences des Données pour prolonger cette évolution vers la valorisation des données. |
+| **Gestion de projets / MOA** | Besoins métiers, cahiers des charges, Product Owner, Agile et recette. |
+| **DevOps & cloud** | Linux, automatisation, CI/CD, conteneurs, AWS et Google Cloud. |
+| **Développement web** | HTML/CSS, JavaScript, PHP, Symfony et WordPress. |
+| **Data & sciences des données** | Formation 2026 ; développement de mes compétences en ingénierie des données et en analyse. |
 
 </details>
 
-<img width="1440" height="300" alt="chiffres-cles" src="https://github.com/user-attachments/assets/cbf71999-ac3b-47af-bb35-33644bd3abdc" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Ansible-007F86?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-007F86?style=for-the-badge&logo=jenkins&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-007F86?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-007F86?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007F86?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-007F86?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<details>
+<summary><strong>Voir les technologies abordées dans mon parcours et mes formations</strong></summary>
+
+**DevOps** · Bash, Python, Jenkins, Docker, Kubernetes, Ansible, Git et GitHub.  
+**Cloud & observabilité** · AWS, Google Cloud, Elasticsearch, Logstash et Kibana.  
+**Web** · HTML/CSS, JavaScript, PHP, Symfony et WordPress.  
+**Abordés en formation web** · React, Angular, Node.js, MySQL et MongoDB.
+
+</details>
+
+### Projets de formation
+
+| Projet | Objectif et travail réalisé |
+| --- | --- |
+| **Application de vote — DevOps** | Déploiement d'une application de vote dans le cadre du projet fil rouge de la formation Consultant DevOps. |
+| **ECE — Site de réservation** | Mise en œuvre d'un site internet de réservation pour un institut de coaching, dans le cadre de la formation Chef de projet web. |
+| **ATHOME — Application de services** | Projet d'application pour géolocaliser et réserver des prestations de soins et de beauté, dans le cadre de la formation MOA / Product Owner. |
+| **Station météo connectée** | Développement d'un objet connecté et interactif dans le cadre de la formation Fabrication numérique. |
+
+> **Une continuité entre mes métiers.**  
+> Analyser une ligne de production, rédiger un cahier des charges ou déployer une application mobilise une même rigueur : comprendre les interactions, identifier les contraintes, vérifier le résultat et documenter le travail. C'est ce fil conducteur que je poursuis dans la data.
+
+<a id="methodes"></a>
+
+### Méthodes transversales · De l’industrie aux projets IT
+
+![Analyse fonctionnelle : définir le besoin ; analyse de la valeur : comparer les solutions ; AMDEC : anticiper les défaillances](assets/methodes-ingenierie.png)
+
+<details>
+<summary><strong>Lire le détail des trois méthodes</strong></summary>
+
+- **Analyse fonctionnelle** · Identifier les besoins, définir les fonctions de service et les contraintes, puis formaliser les critères dans un cahier des charges fonctionnel.
+- **Analyse de la valeur** · Comparer les solutions selon les fonctions attendues et les coûts pour rechercher le meilleur équilibre entre utilité, qualité et coût.
+- **AMDEC — Analyse des modes de défaillance, de leurs effets et de leur criticité** · Identifier les défaillances potentielles d'un produit ou d'un processus, évaluer leur criticité et prioriser les actions de prévention.
+
+</details>
+
+**Dans mon parcours** · Analyse fonctionnelle et analyse de la valeur à la RATP ; analyse fonctionnelle et AMDEC d'un électrolyseur dans le cadre de mon parcours aux Mines de Douai / JCM.
+
+Ces méthodes ont été mobilisées dans mon parcours industriel. Voici comment je peux les transposer aux projets informatiques :
+
+| Méthode | Application possible en IT |
+| :--- | :--- |
+| **Analyse fonctionnelle** | Clarifier les besoins utilisateurs, définir les fonctions et contraintes, rédiger les spécifications et préparer la recette. |
+| **Analyse de la valeur** | Comparer les solutions, prioriser les fonctionnalités et arbitrer selon l'utilité métier, le coût et la qualité attendue. |
+| **AMDEC** | Étudier les défaillances potentielles d'un service ou d'une infrastructure, leurs effets et leur criticité pour prioriser les actions de prévention. |
+
+---
 
 <a id="industrie"></a>
 
-## 🏭 Industrie
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/b845b5be-8cf8-434f-8419-f47ea7f56598" />
+
+## 🏭 2. Industrie · Le socle de ma double culture
+
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -61,7 +136,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/4cfaf00c-cfaa-4733-afcc-6258da6f3e6e" />
+![Compétences industrielles](assets/competences-industrie.png)
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -74,21 +149,6 @@ De la conception mécanique à la production, je pilote des projets en intégran
 | Impression 3D, Arduino et objets connectés | Suivi des coûts, de la qualité et des délais |
 
 </details>
-
-### Analyse, conception & maîtrise des risques
-
-<img width="1440" height="390" alt="methodes-ingenierie" src="https://github.com/user-attachments/assets/a8cb9a3a-28d6-41c8-b20f-0da7382ecf0a" />
-
-<details>
-<summary><strong>Lire le détail des trois méthodes</strong></summary>
-
-- **Analyse fonctionnelle** · Identifier les besoins, définir les fonctions de service et les contraintes, puis formaliser les critères dans un cahier des charges fonctionnel.
-- **Analyse de la valeur** · Comparer les solutions selon les fonctions attendues et les coûts pour rechercher le meilleur équilibre entre utilité, qualité et coût.
-- **AMDEC — Analyse des modes de défaillance, de leurs effets et de leur criticité** · Identifier les défaillances potentielles d'un produit ou d'un processus, évaluer leur criticité et prioriser les actions de prévention.
-
-</details>
-
-**Dans mon parcours** · Analyse fonctionnelle et analyse de la valeur à la RATP ; analyse fonctionnelle et AMDEC d'un électrolyseur dans le cadre de mon parcours aux Mines de Douai / JCM.
 
 **Entreprises et structures de mon parcours**
 
@@ -142,74 +202,40 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ---
 
-<a id="informatique"></a>
+<a id="parcours"></a>
 
-## 💻 Informatique
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/28ac0cb5-6d61-484c-b893-dfea875a12e4" />
 
-### Structurer · Développer · Automatiser
+## Mon parcours · Une double culture construite sur le terrain
 
-J'ai élargi mon parcours industriel à la gestion de projets IT, au développement web et au DevOps. Je poursuis cette évolution avec une **formation Expert Data Engineer et Sciences des Données en 2026**.
+**Du tournage-fraisage au diplôme d'ingénieur des Mines de Douai, puis à l'informatique et aux données.**
 
-### Une expérience professionnelle dans les services IT
+J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
 
-**Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
-J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
+![Mon parcours : terrain, industrie, diplôme des Mines de Douai en 2011, fabrication numérique en 2018, informatique de 2020 à 2023 et formation data en 2026](assets/parcours-atypique.png)
 
-<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/fe8e4420-a5aa-4c45-8378-c1e6e292ba24" />
+> **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
+> Je construis mon évolution dans l'IT en faisant dialoguer équipes métiers et équipes informatiques, avec une perspective de responsabilités techniques.
 
 <details>
-<summary>Lire les compétences informatiques en texte</summary>
+<summary><strong>Les étapes de mon parcours : du terrain à la data</strong></summary>
 
-| Mes quatre domaines | Ce que je mobilise |
+| Étape | Ce que j'ai construit |
 | :--- | :--- |
-| **Gestion de projets / MOA** | Besoins métiers, cahiers des charges, Product Owner, Agile et recette. |
-| **DevOps & cloud** | Linux, automatisation, CI/CD, conteneurs, AWS et Google Cloud. |
-| **Développement web** | HTML/CSS, JavaScript, PHP, Symfony et WordPress. |
-| **Data & sciences des données** | Formation 2026 ; développement de mes compétences en ingénierie des données et en analyse. |
+| **Les bases du métier** | Formation en tournage et fraisage ; compréhension de la fabrication et des contraintes de la matière. |
+| **L'industrie depuis 1992** | Conception mécanique, bureau d'études, machines spéciales et projets dans plusieurs secteurs industriels. |
+| **2011 · Mines de Douai** | Diplôme d'ingénieur généraliste, option production, prolongeant mon expérience du terrain. |
+| **2018 · Fabrication numérique** | Objets connectés, impression 3D et transmission au sein d'un FabLab. |
+| **2020–2023 · Informatique** | Formations MOA / Product Owner, développement web et DevOps ; expérience de pilotage IT chez Sopra Steria. |
+| **2026 · Data** | Formation Expert Data Engineer et Sciences des Données pour prolonger cette évolution vers la valorisation des données. |
 
 </details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/Ansible-007F86?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-007F86?style=for-the-badge&logo=jenkins&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-007F86?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-007F86?style=for-the-badge&logo=symfony&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-007F86?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-007F86?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<details>
-<summary><strong>Voir les technologies abordées dans mon parcours et mes formations</strong></summary>
-
-**DevOps** · Bash, Python, Jenkins, Docker, Kubernetes, Ansible, Git et GitHub.  
-**Cloud & observabilité** · AWS, Google Cloud, Elasticsearch, Logstash et Kibana.  
-**Web** · HTML/CSS, JavaScript, PHP, Symfony et WordPress.  
-**Abordés en formation web** · React, Angular, Node.js, MySQL et MongoDB.
-
-</details>
-
-### Projets de formation
-
-| Projet | Objectif et travail réalisé |
-| --- | --- |
-| **Application de vote — DevOps** | Déploiement d'une application de vote dans le cadre du projet fil rouge de la formation Consultant DevOps. |
-| **ECE — Site de réservation** | Mise en œuvre d'un site internet de réservation pour un institut de coaching, dans le cadre de la formation Chef de projet web. |
-| **ATHOME — Application de services** | Projet d'application pour géolocaliser et réserver des prestations de soins et de beauté, dans le cadre de la formation MOA / Product Owner. |
-| **Station météo connectée** | Développement d'un objet connecté et interactif dans le cadre de la formation Fabrication numérique. |
-
-> **Une continuité entre mes métiers.**  
-> Analyser une ligne de production, rédiger un cahier des charges ou déployer une application mobilise une même rigueur : comprendre les interactions, identifier les contraintes, vérifier le résultat et documenter le travail. C'est ce fil conducteur que je poursuis dans la data.
+![Trois repères : plus de 30 ans de parcours industrie et informatique ; équipes jusqu’à 15 personnes ; projets de 500 k€ et plus](assets/chiffres-cles.png)
 
 <a id="formation"></a>
+
+
 
 ### Formation & évolution
 
@@ -245,7 +271,7 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 
 ### Comprendre le terrain. Concevoir la solution. Accompagner les équipes.
 
-**Direction technique · Projets industriels · Systèmes d'information · Données**
+**Projets IT · MOA · DevOps · Données · Double culture industrielle**
 
 [Échangeons sur LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [Écrivez-moi](mailto:wahid.nejjam@gmail.com)
 
