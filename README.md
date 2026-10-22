@@ -1,7 +1,6 @@
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/cbfeea62-0d81-4e70-b4e7-25f624dd2efd" /><div align="center">
+<div align="center">
 
-![Up<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" role="img" aria-label="Wahid Nejjam, ingénierie industrielle, informatique et data"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1D32"/><stop offset="1" stop-color="#075C67"/></linearGradient></defs><rect width="1440" height="320" rx="20" fill="url(#bg)"/><g fill="none" stroke="#64D8D1" opacity=".18"><circle cx="1320" cy="60" r="180"/><circle cx="1320" cy="60" r="230"/><path d="M1020 270h230l70-70h120M1120 310v-70l60-60h260"/></g><rect x="70" y="62" width="54" height="5" rx="2" fill="#65E3DB"/><text x="70" y="132" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="3" fill="white">WAHID NEJJAM</text><text x="73" y="188" font-family="Arial,sans-serif" font-size="25" letter-spacing="3" fill="#92EBE4">INDUSTRIE · INFORMATIQUE · DATA</text><text x="73" y="251" font-family="Arial,sans-serif" font-size="22" fill="#DCECF2">Ingénieur des Mines de Douai · Management &amp; transformation numérique</text></svg>loading profil-wahid-nejjam.svg…]()
-
+![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
@@ -55,7 +54,7 @@ J'ai ensuite prolongé cette expérience par la **MOA, le développement web et 
 
 ## 🏭 Industrie
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/17aff47a-e1b2-45de-8740-30f3618dca4e" />
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -65,12 +64,19 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
+![Compétences industrielles](assets/competences-industrie.png)
+
+<details>
+<summary>Lire les compétences industrielles en texte</summary>
+
 | Conception & R&D | Opérations & management |
 | :--- | :--- |
 | Bureau d'études et conception mécanique | Management d'équipes et coordination des partenaires |
 | Analyse fonctionnelle et cahiers des charges | Production, PIC/PDP, stocks et ordonnancement |
 | AMDEC et analyse de la valeur | Qualité, maintenance et amélioration continue |
 | Impression 3D, Arduino et objets connectés | Suivi des coûts, de la qualité et des délais |
+
+</details>
 
 **Entreprises et structures de mon parcours**
 
@@ -107,8 +113,21 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 </details>
 
-**Mes outils**  
-`CATIA V5` `Creo / Pro/ENGINEER` `Windchill` `SAP` `AS/400` `BAAN` `MATLAB` `Witness` `MS Project` `Excel`
+### Outils industriels & fabrication numérique
+
+![CATIA V5](https://img.shields.io/badge/CATIA%20V5-0F2942?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Creo / Pro/ENGINEER](https://img.shields.io/badge/Creo%20%2F%20Pro%2FENGINEER-007F86?style=for-the-badge)
+![Windchill](https://img.shields.io/badge/Windchill-0F2942?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-007F86?style=for-the-badge&logo=sap&logoColor=white)
+![AS/400](https://img.shields.io/badge/AS%2F400-0F2942?style=for-the-badge)
+![BAAN](https://img.shields.io/badge/BAAN-007F86?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0F2942?style=for-the-badge)
+![Witness](https://img.shields.io/badge/Witness-007F86?style=for-the-badge)
+![MS Project](https://img.shields.io/badge/MS%20Project-0F2942?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-007F86?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-0F2942?style=for-the-badge&logo=arduino&logoColor=white)
+
+*Logos disponibles pour Dassault Systèmes, SAP et Arduino ; les autres outils sont identifiés par leur nom.*
 
 ---
 
@@ -116,7 +135,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/adbd0e5d-d4dd-4518-b98a-e345cad6254d" />
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
 
 ### Structurer · Développer · Automatiser
 
@@ -127,12 +146,19 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
+![Les quatre domaines informatiques](assets/competences-it.png)
+
+<details>
+<summary>Lire les compétences informatiques en texte</summary>
+
 | Mes quatre domaines | Ce que je mobilise |
 | :--- | :--- |
 | **Gestion de projets / MOA** | Besoins métiers, cahiers des charges, Product Owner, Agile et recette. |
 | **DevOps & cloud** | Linux, automatisation, CI/CD, conteneurs, AWS et Google Cloud. |
 | **Développement web** | HTML/CSS, JavaScript, PHP, Symfony et WordPress. |
 | **Data & sciences des données** | Formation 2026 ; développement de mes compétences en ingénierie des données et en analyse. |
+
+</details>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
@@ -142,6 +168,13 @@ J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner l
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Ansible-007F86?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-007F86?style=for-the-badge&logo=jenkins&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-007F86?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-007F86?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007F86?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-007F86?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <details>
 <summary><strong>Voir les technologies abordées dans mon parcours et mes formations</strong></summary>
