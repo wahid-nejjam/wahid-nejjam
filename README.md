@@ -1,6 +1,8 @@
 <div align="center">
 
-![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.svg)
+<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/68cee1b3-066b-489e-8a2e-f6ac71715b27" />
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" role="img" aria-label="Wahid Nejjam, ingénierie industrielle, informatique et data"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1D32"/><stop offset="1" stop-color="#075C67"/></linearGradient></defs><rect width="1440" height="320" rx="20" fill="url(#bg)"/><g fill="none" stroke="#64D8D1" opacity=".18"><circle cx="1320" cy="60" r="180"/><circle cx="1320" cy="60" r="230"/><path d="M1020 270h230l70-70h120M1120 310v-70l60-60h260"/></g><rect x="70" y="62" width="54" height="5" rx="2" fill="#65E3DB"/><text x="70" y="132" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="3" fill="white">WAHID NEJJAM</text><text x="73" y="188" font-family="Arial,sans-serif" font-size="25" letter-spacing="3" fill="#92EBE4">INDUSTRIE · INFORMATIQUE · DATA</text><text x="73" y="251" font-family="Arial,sans-serif" font-size="22" fill="#DCECF2">Ingénieur des Mines de Douai · Management &amp; transformation numérique</text></svg>
 
 **Du travail de la matière à la maîtrise des systèmes et des données.**
 
@@ -54,7 +56,7 @@ Ce parcours me donne plusieurs points de vue sur un même problème : celui de l
 
 ## 🏭 Industrie
 
-![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
+<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/b5ed8ae4-cefd-401b-91e7-e23d214079ff" />
 
 *Illustration des secteurs de mon parcours.*
 
@@ -115,7 +117,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 ## 💻 Informatique
 
-![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
+<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/490f59ef-2956-40bf-9827-1bea5f0fc0ff" />
 
 ### Structurer · Développer · Automatiser
 
