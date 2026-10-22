@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/e859078a-0204-4717-98f0-cf4d108f4c9a" />
+![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
+
+# Expert Data Engineer Et Sciences des données
+
+## NEJJAM Wahid
+
+**Formation en cours · Recherche d’opportunités dans l’IT et la data**
 
 **Gestion de projets IT · MOA / Product Owner · DevOps · Data en formation**
 
@@ -16,6 +22,7 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 </div>
 
+
 ---
 
 ## Mon objectif · Contribuer à des projets IT utiles aux métiers
@@ -30,7 +37,7 @@ Ingénieur des Mines de Douai, j'associe une expérience industrielle et managé
 
 ## 💻 1. Informatique · Mon orientation professionnelle
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/38ac9dde-e8f7-46f7-9674-7637f41bfd53" />
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](assets/competences-informatique.png)
 
 ### Structurer · Développer · Automatiser
 
@@ -41,7 +48,7 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
-<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/c222b5e0-dc52-45bf-9672-42336ac48c20" />
+![Les quatre domaines informatiques](assets/competences-it.png)
 
 <details>
 <summary>Lire les compétences informatiques en texte</summary>
@@ -97,7 +104,7 @@ J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner l
 
 ### Méthodes transversales · De l’industrie aux projets IT
 
-<img width="1440" height="390" alt="methodes-ingenierie" src="https://github.com/user-attachments/assets/0bff4f28-64a3-4bda-b096-72c0c57b7de3" />
+![Analyse fonctionnelle : définir le besoin ; analyse de la valeur : comparer les solutions ; AMDEC : anticiper les défaillances](assets/methodes-ingenierie.png)
 
 <details>
 <summary><strong>Lire le détail des trois méthodes</strong></summary>
@@ -126,7 +133,7 @@ Ces méthodes ont été mobilisées dans mon parcours industriel. Voici comment 
 
 ## 🏭 2. Industrie · Le socle de ma double culture
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/5cab9381-26a4-4ccf-b7ba-9f4dd6f09a9e" />
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -136,7 +143,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/e25ad4c2-5dde-4ad0-8d60-82d2e361f4d1" />
+![Compétences industrielles](assets/competences-industrie.png)
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -212,7 +219,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
 
-<img width="1440" height="650" alt="parcours-atypique" src="https://github.com/user-attachments/assets/54863b15-44c7-4937-afc1-c95f652de43f" />
+![Mon parcours : terrain, industrie, diplôme des Mines de Douai en 2011, fabrication numérique en 2018, informatique de 2020 à 2023 et formation data en 2026](assets/parcours-atypique.png)
 
 > **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
 > Je construis mon évolution dans l'IT en faisant dialoguer équipes métiers et équipes informatiques, avec une perspective de responsabilités techniques.
@@ -231,7 +238,7 @@ J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendr
 
 </details>
 
-<img width="1440" height="300" alt="chiffres-cles" src="https://github.com/user-attachments/assets/b2dc6465-9312-4df4-b4c5-4f24ce2d4100" />
+
 
 <a id="formation"></a>
 
@@ -276,6 +283,8 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 [Échangeons sur LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [Écrivez-moi](mailto:wahid.nejjam@gmail.com)
 
 Français & arabe : bilingue · Anglais : opérationnel
+
+![Chiffres clés : 25 ans dans l’industrie ; 5 ans dans l’informatique ; équipes jusqu’à 15 personnes ; projets de 500 k€ et plus](assets/chiffres-cles.png)
 
 </div>
 
