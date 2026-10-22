@@ -35,7 +35,8 @@ Saint-Malo, France · Mobilité nationale et internationale
 
 ## 🏭 Industrie
 
-![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](assets/secteurs-industrie.png)
+<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/ad3a2fa3-1932-4534-9730-c666f0f8edc7" />
+
 
 *Illustration des secteurs de mon parcours.*
 
