@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wahid NEJJAM — Industrie, informatique et data](assets/profil-wahid-nejjam.png)
+<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/cbcdf651-33ed-4aa8-9341-2ea53a8b9f73" />
 
 # Expert Data Engineer Et Sciences des données
 
