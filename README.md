@@ -284,7 +284,7 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 
 Français & arabe : bilingue · Anglais : opérationnel
 
-![Chiffres clés : 25 ans dans l’industrie ; 5 ans dans l’informatique ; équipes jusqu’à 15 personnes ; projets de 500 k€ et plus](assets/chiffres-cles.png)
+<img width="1440" height="460" alt="chiffres-cles" src="https://github.com/user-attachments/assets/8e4b7312-ce52-4aff-a0d7-d5fc3a4e90e5" />
 
 </div>
 
