@@ -1,12 +1,10 @@
 <div align="center">
 
-# Expert Data Engineer Et Sciences des données
+<img src="banniere-data.png" width="100%" alt="Expert Data Engineer et Sciences des données — Wahid Nejjam">
 
-### INFORMATIQUE · DATA · INDUSTRIE
+<br><br>
 
-**Ingénieur des Mines de Douai · Projets IT, MOA & DevOps**
-
-<img width="1440" height="650" alt="chiffres-cles" src="https://github.com/user-attachments/assets/4f7c802f-6d30-4834-bdbf-fe4bfbf93758" />
+<img src="chiffres-cles.png" width="700" alt="Chiffres clés : 25 ans en industrie, 5 ans en informatique, management, projets et langues">
 
 ---
 
@@ -41,7 +39,7 @@ Ingénieur des Mines de Douai, j'associe une expérience industrielle et managé
 
 ## 💻 1. Informatique · Mon orientation professionnelle
 
-<img width="2172" height="724" alt="competences-informatique" src="https://github.com/user-attachments/assets/1f28526f-889a-489a-a7cf-d8454f76f54c" />
+![Gestion de projets et MOA, DevOps, développement web, data et sciences des données](competences-informatique.png)
 
 ### Structurer · Développer · Automatiser
 
@@ -52,7 +50,7 @@ J'ai élargi mon parcours industriel à la gestion de projets IT, au développem
 **Sopra Steria · Responsable service infogérance / Chef de projet IT · 2023**  
 J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner les intervenants et suivre la performance à travers les indicateurs, tableaux de bord et comités de pilotage.
 
-<img width="1440" height="490" alt="competences-it" src="https://github.com/user-attachments/assets/ff732447-a66b-4a42-a71e-c52f05369989" />
+![Les quatre domaines informatiques](competences-it.png)
 
 <details>
 <summary>Lire les compétences informatiques en texte</summary>
@@ -108,7 +106,7 @@ J'ai mobilisé mon expérience du pilotage pour manager le service, coordonner l
 
 ### Méthodes transversales · De l’industrie aux projets IT
 
-<img width="1440" height="390" alt="methodes-ingenierie" src="https://github.com/user-attachments/assets/bddb86b1-c505-4a49-8e0b-52f4052fc2b7" />
+![Analyse fonctionnelle : définir le besoin ; analyse de la valeur : comparer les solutions ; AMDEC : anticiper les défaillances](methodes-ingenierie.png)
 
 <details>
 <summary><strong>Lire le détail des trois méthodes</strong></summary>
@@ -137,7 +135,7 @@ Ces méthodes ont été mobilisées dans mon parcours industriel. Voici comment 
 
 ## 🏭 2. Industrie · Le socle de ma double culture
 
-<img width="2172" height="724" alt="secteurs-industrie" src="https://github.com/user-attachments/assets/d8fdaa8b-3733-4300-a177-20310a744d3e" />
+![Illustration des secteurs industriels : ferroviaire, automobile, mobilier urbain, cimenterie, agroalimentaire et naval](secteurs-industrie.png)
 
 *Illustration des secteurs de mon parcours.*
 
@@ -147,7 +145,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 **Ferroviaire · Automobile · Mobilier urbain · Cimenterie · Agroalimentaire · Naval · Machines spéciales**
 
-<img width="1440" height="490" alt="competences-industrie" src="https://github.com/user-attachments/assets/66ae845a-4532-4743-8bd1-4e707014a111" />
+![Compétences industrielles](competences-industrie.png)
 
 <details>
 <summary>Lire les compétences industrielles en texte</summary>
@@ -223,7 +221,7 @@ De la conception mécanique à la production, je pilote des projets en intégran
 
 J'ai fait évoluer mon métier en conservant un même fil conducteur : comprendre les contraintes, concevoir des solutions et coordonner leur réalisation. Mon expérience industrielle nourrit aujourd'hui mon approche des projets numériques.
 
-<img width="1440" height="650" alt="parcours-atypique" src="https://github.com/user-attachments/assets/7fbb5d36-2bbd-461e-949e-2abc147cf2cf" />
+![Mon parcours : terrain, industrie, diplôme des Mines de Douai en 2011, fabrication numérique en 2018, informatique de 2020 à 2023 et formation data en 2026](parcours-atypique.png)
 
 > **Mon exigence : relier la compréhension du terrain à la qualité de la réalisation.**  
 > Je construis mon évolution dans l'IT en faisant dialoguer équipes métiers et équipes informatiques, avec une perspective de responsabilités techniques.
