@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="1440" height="320" alt="profil-wahid-nejjam" src="https://github.com/user-attachments/assets/cbcdf651-33ed-4aa8-9341-2ea53a8b9f73" />
-
 # Expert Data Engineer Et Sciences des données
 
-## NEJJAM Wahid
+### INFORMATIQUE · DATA · INDUSTRIE
+
+**Ingénieur des Mines de Douai · Projets IT, MOA & DevOps**
+
+![Chiffres clés : industrie 25 ans ; informatique 5 ans ; management jusqu’à 15 personnes ; projets de 500 k€ et plus ; français et arabe bilingues, anglais opérationnel](assets/chiffres-cles.png)
+
+---
 
 **Formation en cours · Recherche d’opportunités dans l’IT et la data**
 
@@ -282,9 +286,9 @@ Je développe mes compétences en ingénierie des données et en sciences des do
 
 [Échangeons sur LinkedIn](https://www.linkedin.com/in/wahid-nejjam-a7a52a20/) · [Écrivez-moi](mailto:wahid.nejjam@gmail.com)
 
-Français & arabe : bilingue · Anglais : opérationnel
 
-<img width="1440" height="460" alt="chiffres-cles" src="https://github.com/user-attachments/assets/8e4b7312-ce52-4aff-a0d7-d5fc3a4e90e5" />
+
+
 
 </div>
 
